@@ -1,5 +1,5 @@
 opencv-python==4.1.0.25
-Pillow==2.2.1
+Pillow==8.2.0
 Flask==1.0.3
 Werkzeug==0.15.4
 Flask-Cors==3.0.7
